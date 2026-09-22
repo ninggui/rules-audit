@@ -1,5 +1,8 @@
 <div align="center">
 
+
+![cover](assets/cover.png)
+
 # rules-audit
 
 **每周一自动审计：你给 AI 定的规则，它到底执行了多少？**
